@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "llama-agent.helloWorld",
-        "title": "Hello World"
+        "command": "llama-agent.refactor",
+        "title": "Refactor files in workspace"
       }
     ]
   },
